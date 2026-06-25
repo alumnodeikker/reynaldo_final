@@ -1,0 +1,1 @@
+// Esta el pa pagina donde se confima el pago el de confeti verde 

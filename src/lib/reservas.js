@@ -1,3 +1,6 @@
+// esta en la accion que voy a utlizar para crar el Id de las mesa , la fecha y todos los datos para realizar la reserva
+// para que cree la reseva en mi base de datos y lo pueda lleva a paga al ausurio en lib/pagos
+
 'use server'
 
 import { createClient } from '@/lib/supabase/server'
