@@ -1,0 +1,1 @@
+//aca es donde voy a colocar todo el codigo donde el usurio de conecta con strip y reserva la sala , el usurio se le guarda los datos de la tarjeta y guardamos son ID, y creo la lista de productos que el usrio vera 

@@ -1,0 +1,1 @@
+// Este codigo del Webhook es en el cargado de confirmar el pago de con la base de datos entre stripe y supabase utilisando la stripe secret key y el comando en el termional para que stripe escuche y pueda confirmar el pago
